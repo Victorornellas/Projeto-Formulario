@@ -35,5 +35,11 @@
     --violet: #C3B2E7;
     --pink: #F682A5;
 
+    /* fonte */
+    --font-family: 'Poppins', sans-serif;
+    --text: 400 1rem/1.5 var(--font-family);
+    --text-sm: 400 0.875/1.4 var(--font-family);
+
 
 }
+
